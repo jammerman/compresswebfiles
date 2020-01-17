@@ -1,0 +1,19 @@
+{
+  "name": "compresswebfiles",
+  "version": "1.0.0",
+  "description": "Uses uglifyJS and htmlcompress to squish files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jammerman/compresswebfiles.git"
+  },
+  "author": "Gavin McGibbon <gavin.mcgibbon@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jammerman/compresswebfiles/issues"
+  },
+  "homepage": "https://github.com/jammerman/compresswebfiles#readme"
+}
