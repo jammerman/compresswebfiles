@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jammerman/compresswebfiles/issues"
   },
-  "homepage": "https://github.com/jammerman/compresswebfiles#readme"
+  "homepage": "https://github.com/jammerman/compresswebfiles#readme",
+  "dependencies": {
+    "uglifyjs": "^7.2.0"
+  }
 }
