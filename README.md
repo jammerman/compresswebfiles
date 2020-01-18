@@ -1,2 +1,6 @@
-# compresswebfiles
-Utilizes ugrlifyjs to compress .js files
+# Compresswebfiles
+Utilizes uglifyjs to compress .js files
+
+Usage:
+
+node compresswebfiles [JS | HTML] <srcfile> <destfile>
